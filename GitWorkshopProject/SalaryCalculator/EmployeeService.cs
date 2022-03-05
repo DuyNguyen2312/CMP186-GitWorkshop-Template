@@ -32,6 +32,7 @@ namespace SalaryCalculator
                     break;
             }
 
+
             var salary = BASIC_SALARY * years * factor;
 
             return salary;
